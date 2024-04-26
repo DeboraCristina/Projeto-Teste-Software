@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "descricao": "Eletrobomba 110v",
+      "categoria": "maquina de lavar",
+      "custo": 51.66,
+      "quantidadeNoEstoque": 12
+    },
+    {
+      "id": 2,
+      "descricao": "Tirante original Branstemp",
+      "categoria": "lava louca",
+      "custo": 3.9,
+      "quantidadeNoEstoque": 20
+
+    },
+    {
+      "id": 3,
+      "descricao": "Termoatuador Lavadora Colormaq",
+      "categoria": "maquina de lavar",
+      "custo": 29.7,
+      "quantidadeNoEstoque": 40
+
+    }
+    
+  ]
+ 
+}
